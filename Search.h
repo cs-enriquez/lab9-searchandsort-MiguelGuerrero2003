@@ -16,7 +16,7 @@ void printArray(flexibleType arr[], int size) {
 
 // Implement a sequential search algorithm
 // your function should search for a target value (target)
-//    within the indices of "start" to "end"
+//    within the indices of "sta rt" to "end"
 // return true if target exists in the array within this range,
 //    return false otherwise
 bool seqSearch(string target, string arr[], int start, int end) {
