@@ -101,7 +101,7 @@ void swap(double darray[], int i, int j) {
 int minFind(double darray[], int start,int end) {
     int minIndex = start;
     if(end == 0){
-       end = darray.length;
+       
     }
     for (int i = start + 1; i <= end; ++i) {
         if (darray[i] < darray[minIndex]) {
